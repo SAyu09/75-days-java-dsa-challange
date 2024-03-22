@@ -1,3 +1,8 @@
+
+
+//......class and methods......
+
+
 class Gaurav{
     private int salary,age,pincode;
     private String profession,hobey,position;
